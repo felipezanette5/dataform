@@ -1,9 +1,1 @@
-
-
-config { 
-    type: "view",
-    schema: "test_ds"
-    }
-
-SELECT "Clara" AS Neneca,
-        "Thomas" AS Neneco
+Hello world!
